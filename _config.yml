@@ -1,7 +1,7 @@
 site: Welcome to Advait Patel's Blogs
 
-url: https://advaitpatel.github.io
-baseurl: /advaitpatel.github.io/
+url: "https://advaitpatel.github.io"
+baseurl: ""
 
 collections:
   pages:
